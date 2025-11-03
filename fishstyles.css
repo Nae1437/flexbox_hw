@@ -1,0 +1,30 @@
+
+.header {
+background-color: rgb(214, 46, 40);
+padding: 20px;
+padding-bottom: 0;
+margin-bottom: 0;
+}
+
+.main {
+padding: 20px;
+background-color: rgb(156, 156, 156);
+}
+
+.main-content {
+display: flex;
+}
+
+body {
+margin: 0;
+}
+
+.side-nav {
+padding: 20px;
+background-color: rgb(253, 244, 76);
+margin-right: 20px;
+}
+
+.footer {
+background-color: dodgerblue;
+}
